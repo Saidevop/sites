@@ -1,1 +1,10 @@
-This is first Git test practise
+This is first Git test practise.
+
+Git
+Git
+Git
+Git
+Git
+Git
+Git
+Git
