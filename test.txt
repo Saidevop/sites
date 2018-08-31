@@ -1,10 +1,1 @@
-This is first Git test practise.
-
-Git
-Git
-Git
-Git
-Git
-Git
-Git
-Git
+I love you very much
